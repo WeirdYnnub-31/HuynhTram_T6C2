@@ -1,13 +1,30 @@
-# Hello World, I'm Nguyễn Ngọc Huỳnh Trâm, be very welcome
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<table>
-  <a href="https://github.com/WeirdYnnub-31">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeirdYnnub-31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
-</table>
+<p align="left"> 
+Xin Chào tôi là Nguyễn Ngọc Huỳnh Trâm 
+</p>
 
+<p align="left">
+  🦄 Hiện Đang Là Sinh Viên Năm 3 Trường Đại Học Ngoại Ngữ - Tin Học TP.HCM (HUFLIT)**
+</p>
+
+<p align="left">
+  💼 Công Nghệ Phần Mềm: Lớp Thực Hành Thứ 6 Ca 2 Công Nghệ Phần Mềm
+</p>
+
+<p align="left">
+  💌 Contact Me ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
