@@ -5,7 +5,7 @@ Xin Chào tôi là Nguyễn Ngọc Huỳnh Trâm
 </p>
 
 <p align="left">
-  🦄 Hiện Đang Là Sinh Viên Năm 3 Trường Đại Học Ngoại Ngữ - Tin Học TP.HCM (HUFLIT)**
+  🦄 Hiện Đang Là Sinh Viên Năm 3 Trường Đại Học Ngoại Ngữ - Tin Học TP.HCM (HUFLIT)
 </p>
 
 <p align="left">
